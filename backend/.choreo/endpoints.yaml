@@ -1,6 +1,6 @@
 version: 0.1
 
-endpoints: 
+endpoints:
   - name: "REST API"
     port: 8000
     type: REST
